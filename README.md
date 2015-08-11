@@ -1,0 +1,2 @@
+# mygit
+Hello my friend
